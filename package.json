@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "noise": "^0.0.0",
+    "npm": "^9.6.6",
+    "reduction": "^0.1.1"
+  }
+}

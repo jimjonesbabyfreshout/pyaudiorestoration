@@ -11,3 +11,4 @@ pyfftw
 librosa
 resampy # (optional)
 numba
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
